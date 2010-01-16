@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/scriptdev2/!svn/ver/1543/sql/Updates
+END
+r1543_scriptdev2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/scriptdev2/!svn/ver/1543/sql/Updates/r1543_scriptdev2.sql
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/scriptdev2/!svn/ver/1543/sql/Updates/Makefile.am
+END

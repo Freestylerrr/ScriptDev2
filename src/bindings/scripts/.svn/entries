@@ -1,0 +1,52 @@
+9
+
+dir
+1513
+http://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts
+http://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-12-01T13:48:41.589199Z
+1513
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+kalimdor
+dir
+
+northrend
+dir
+
+outland
+dir
+
+world
+dir
+
+custom
+dir
+
+eastern_kingdoms
+dir
+
+battlegrounds
+dir
+
+examples
+dir
+
